@@ -5,6 +5,6 @@ Here I have tried to create interactive plots of the covid19 data using Plotly
 
 [![2021-02-15-17-10-31-Window.png](https://i.postimg.cc/m2vcc6Pk/2021-02-15-17-10-31-Window.png)](https://postimg.cc/ykT6tjXC)
 
-[![2020-06-20-20-32-15-Window.png](https://i.postimg.cc/bYL18pVF/2020-06-20-20-32-15-Window.png)](https://postimg.cc/xqJX3D2K)
+[![2021-02-15-17-21-36-Window.png](https://i.postimg.cc/gkVD2R0C/2021-02-15-17-21-36-Window.png)](https://postimg.cc/56tvPXLg)
 
 [![2020-06-20-20-32-51-Window.png](https://i.postimg.cc/rwR4SWVv/2020-06-20-20-32-51-Window.png)](https://postimg.cc/FYm1vYJZ)
