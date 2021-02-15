@@ -14,3 +14,5 @@ The below graph shows the total number of cases in the continents and here we ca
 
 
 [![2021-02-15-17-23-16-Window.png](https://i.postimg.cc/wvNNb8yC/2021-02-15-17-23-16-Window.png)](https://postimg.cc/R6MqNYTd)
+
+Thank You!
